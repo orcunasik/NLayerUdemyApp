@@ -1,0 +1,5 @@
+API => https://localhost:7288
+API => http://localhost:5057
+
+MVC => https://localhost:7170
+MVC => http://localhost:5126
